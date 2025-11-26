@@ -17,6 +17,7 @@ import copy
 609: SEQUENCE_LENGTH = 13, 總共訓練1-13班, k=30
 一班車一個模型
 """
+
 DATA_FILE = './dataset/Status_100.xlsx'
 SEQUENCE_LENGTH = 46
 NUM_EPOCHS = 1000
